@@ -1,6 +1,6 @@
-# myapp
+# shape calculator
 
-A new Flutter project.
+Shape Calculator will Calculate Cube, Radius, and Rectangle. this calculator using intent with flutter
 
 ## Getting Started
 
